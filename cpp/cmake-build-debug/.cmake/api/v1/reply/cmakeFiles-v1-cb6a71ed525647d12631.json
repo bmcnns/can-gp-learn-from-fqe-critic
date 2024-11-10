@@ -1,0 +1,177 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/pybind11/pybind11ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/pybind11/pybind11Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/pybind11/pybind11Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/pybind11/pybind11Common.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/pybind11/pybind11NewTools.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPython.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPython/Support.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Internal/CheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Internal/CheckFlagCommonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/snap/clion/296/bin/cmake/linux/x64/share/cmake-3.29/Modules/Internal/CheckSourceCompiles.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/bryce/Repos/gp-is-good-for-fqe/cpp/cmake-build-debug",
+		"source" : "/home/bryce/Repos/gp-is-good-for-fqe/cpp"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

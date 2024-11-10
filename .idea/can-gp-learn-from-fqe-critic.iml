@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python facet">
+      <configuration sdkName="gp-is-good-for-fqe" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="gp-is-good-for-fqe" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="gp-is-good-for-fqe interpreter library" level="application" />
+  </component>
+</module>
